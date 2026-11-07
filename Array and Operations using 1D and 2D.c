@@ -1,3 +1,13 @@
+/* SAMPLE OUTPUT
+ * Enter the number of elements in 1D array: 5
+ * Enter 5 elements:
+ * 10
+ * 20
+ * 30
+ * 40
+ * 50
+ */
+
 #include <stdio.h>
 
 int main()
