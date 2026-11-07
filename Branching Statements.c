@@ -1,20 +1,3 @@
-/* SAMPLE OUTPUT
- * ===== BRANCHING STATEMENTS =====
- * Enter the first number: 25
- * Enter the second number: 18
- *
- * ----- MENU -----
- * 1. Check Positive, Negative or Zero
- * 2. Check Even or Odd
- * 3. Find Largest of Two Numbers
- * 4. Check Divisibility by 5
- *
- * Enter your choice: 3
- *
- * ----- RESULT -----
- * 25 is the Largest Number
- */
-
 #include <stdio.h>
 
 int main()
@@ -124,3 +107,20 @@ default:
     return 0;
 
 }
+
+/* OUTPUT
+ * ===== BRANCHING STATEMENTS =====
+ * Enter the first number: 25
+ * Enter the second number: 18
+ *
+ * ----- MENU -----
+ * 1. Check Positive, Negative or Zero
+ * 2. Check Even or Odd
+ * 3. Find Largest of Two Numbers
+ * 4. Check Divisibility by 5
+ *
+ * Enter your choice: 3
+ *
+ * ----- RESULT -----
+ * 25 is the Largest Number
+ */

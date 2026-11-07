@@ -1,19 +1,3 @@
-/* SAMPLE OUTPUT
- * ===== OPERATORS AND EXPRESSIONS =====
- * Enter the first number: 20
- * Enter the second number: 10
- *
- * ----- MENU -----
- * 1. Addition
- * 2. Subtraction
- * 3. Multiplication
- * 4. Division
- * 5. Modulus
- *
- * Enter your choice: 1
- * Result = 30
- */
-
 #include <stdio.h>
 int main()
 {
@@ -74,3 +58,19 @@ break;
     }
     return 0;
 }
+
+/* OUTPUT
+ * ===== OPERATORS AND EXPRESSIONS =====
+ * Enter the first number: 20
+ * Enter the second number: 10
+ *
+ * ----- MENU -----
+ * 1. Addition
+ * 2. Subtraction
+ * 3. Multiplication
+ * 4. Division
+ * 5. Modulus
+ *
+ * Enter your choice: 1
+ * Result = 30
+ */

@@ -1,12 +1,3 @@
-/* SAMPLE OUTPUT
- * Enter the first string: Hello
- * Enter the second string: World
- * Length of first string = 5
- * Copied string = Hello
- * Both strings are not equal
- * Concatenated string = HelloWorld
- */
-
 #include <stdio.h>
 
 #include <string.h>
@@ -49,3 +40,12 @@ int main()
 
     return 0;
 }
+
+/* OUTPUT
+ * Enter the first string: Hello
+ * Enter the second string: World
+ * Length of first string = 5
+ * Copied string = Hello
+ * Both strings are not equal
+ * Concatenated string = HelloWorld
+ */

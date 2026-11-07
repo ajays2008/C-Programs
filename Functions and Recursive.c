@@ -1,9 +1,3 @@
-/* SAMPLE OUTPUT
- * Enter a number: 5
- * Square of 5 = 25
- * Factorial of 5 = 120
- */
-
 #include <stdio.h>
 
 int square(int n);
@@ -64,3 +58,9 @@ int factorial(int n)
     }
 
 }
+
+/* OUTPUT
+ * Enter a number: 5
+ * Square of 5 = 25
+ * Factorial of 5 = 120
+ */
